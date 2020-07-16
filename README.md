@@ -60,8 +60,8 @@ DATASET:
         
         13.diagnosis - 
                       
-                     a) IUGR - It stands for intra uterine growth retardation. It refers to a condition in which an unborn baby is smaller than it should be because it is not                                  growing at a normal rate inside the womb.
+                     a) IUGR - It stands for intra uterine growth retardation. It refers to a condition in which an unborn baby is smaller than it should be because it is not                                  growing at a normal rate inside the womb. First 50 entries in dataset denotes IUGR i.e fron id 1 to 50. The main parameter to identify this                                      malnutrition is the birth weight, which will be below 2.5. 
                      
-                     b)MERASMUS - It is a form of malnutrition. It happens when the intake of nutrients and energy is too low for a person’s needs. It leads to wasting, or                                   the loss of body fat and muscle. A child with marasmus may not grow as children usually do.
+                     b)MERASMUS - It is a form of malnutrition. It happens when the intake of nutrients and energy is too low for a person’s needs. It leads to wasting, or                                         the loss of body fat and muscle. A child with marasmus may not grow as children usually do. Next 50 entries denotes MERASMUS i.e from id 51 to                                   100. The parameter to identify this malnutrition will be
                      
                      c)KWASHIORKOR - It is a malnutrition produced by a severely inadequate amount of protein in the diet.
