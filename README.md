@@ -68,4 +68,4 @@ DATASET:
 
 PROGRAM : 
          
-         Here dataset comes under supervised learning->classification so we use logistic regression to train and test the model. The setwise explanation is given in the program          itself through comments.
+         Here dataset comes under supervised learning->classification so we use logistic regression to train and test the model. The setwise explanation is given in the program  itself through comments.
