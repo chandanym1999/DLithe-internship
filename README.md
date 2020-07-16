@@ -1,8 +1,6 @@
 # DLithe-internship
-internship project
-                           
-                           
-                           Assignment during Online Internship with Dlithe(www.dlithe.com)
+Assignment during Online Internship with Dlithe(www.dlithe.com)
+                       
 
 Project Name- MALNUTRITION ASSESSMENT
 
