@@ -2,7 +2,7 @@
 Assignment during Online Internship with Dlithe(www.dlithe.com)
                        
 
-Project Name- MALNUTRITION ASSESSMENT
+PROJECT NAME - MALNUTRITION ASSESSMENT
 
          An attempt to identify malnutrition like IUGR , MARASMUS and KWASHIORKOR using machine learning.
          
@@ -65,3 +65,7 @@ DATASET:
                      b)MERASMUS - It is a form of malnutrition. It happens when the intake of nutrients and energy is too low for a person’s needs. It leads to wasting, or                                         the loss of body fat and muscle. A child with marasmus may not grow as children usually do. Next 50 entries in dataset denotes MERASMUS i.e                                       from id 51 to 100. The parameters to identify this malnutrition will be weight lose more than 30% compared to normalhealthy child of the                                         similar age group(normal weight calculation, for 0-3months weight=birthweight+30*age_in_days, for 3months to 1 year weight=                                                       (age_in_months+9)/2, for 1 to 6 years weight=age*2+8), its major symptom being high increase in appetite, increase in irritability, loss of                                       subcutaneous fat,dry and scaly looking skin, gross decrease in weight, distention in abdomen, loss of muscle mass.
                      
                      c)KWASHIORKOR - It is a malnutrition produced by a severely inadequate amount of protein in the diet. Next 50 entries in dataset denotes KWASHIORKOR i.e                                          from  id 101 to 150. there will be no apparent decrease in the weight because of edema which adds extra water weight making child looking                                        normal but the effect of malnutrition continously increases which can be accessed by poor appetite, baby feeling lethargic and sleepy all                                        the time,  presence of edema which makes subcutenious fat readings normal. Edema can be accessed by presure on the bony prominences,                                              puffyness of eyes and face which is usually present. Dermatotic changes in skin, organomegaly- gross wasting of muscle mass. Serum  albumin                                      being major contributor in diagnosis usually will be less than 3 gm/L.
+
+PROGRAM : 
+         
+         Here dataset comes under supervised learning->classification so we use logistic regression to train and test the model. The setwise explanation is given in the program          itself through comments.
