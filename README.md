@@ -69,3 +69,10 @@ DATASET:
 PROGRAM : 
          
          Here dataset comes under supervised learning->classification so we use logistic regression to train and test the model. The setwise explanation is given in the program  itself through comments.
+         
+REFERENCES:
+        
+          1.A special thanks to my brother Dr.Jeevan Y M (Medical Officer at phc Kembalu,Hassan,Karnataka).
+          2.Book - Ghai Essential Pediatrics(8th edition) - vinod k paul, arvind bagga.
+          3.https://www.medicalnewstoday.com/articles/313185
+          4.https://www.geeksforgeeks.org/ml-logistic-regression-using-python/
