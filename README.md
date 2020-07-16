@@ -48,4 +48,20 @@ DATASET:
        
         8.serum_albumin_level - it measures the amount of protein in individuals blood. It can vary from 3.4 to 5.4g/dL.
         
-        9.abdomen -
+        9.abdomen - it access the abdomenal changes, it can be, i)distended - abdomen swollen.
+                                                                ii)normal - abdomen normal.
+                                                              
+        10.organomegaly - here we access major abdomenal organs including spleen, liver, kidney etc., it can be, i)yes - increased in size
+                                                                                                                 ii)no - normal.
+                                                                                                                 
+        11.subcutaneous_fat - fatty tissue present beneath the skin. here we are accessing subcutaneous fat using calipers, usually it is accessed between the age group of 0-10                               age and its values varies from 0 to 30.
+        
+        12.present_weight - present weight of the individual.
+        
+        13.diagnosis - 
+                      
+                     a) IUGR - It stands for intra uterine growth retardation. It refers to a condition in which an unborn baby is smaller than it should be because it is not                                  growing at a normal rate inside the womb.
+                     
+                     b)MERASMUS - It is a form of malnutrition. It happens when the intake of nutrients and energy is too low for a person’s needs. It leads to wasting, or                                   the loss of body fat and muscle. A child with marasmus may not grow as children usually do.
+                     
+                     c)KWASHIORKOR - It is a malnutrition produced by a severely inadequate amount of protein in the diet.
